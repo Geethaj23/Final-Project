@@ -1,7 +1,7 @@
 const express=require('express');
 const app=express();
 const mongoose = require('mongoose');
-const routerurl= require('./routes/routes')
+const routerurl= require('/routes')
 const cors=require('cors');
 
 app.use(express.json());
