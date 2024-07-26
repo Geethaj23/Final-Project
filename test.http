@@ -1,0 +1,10 @@
+POST http://localhost:4005/app/signup
+Content-Type: application/json
+
+{
+    "name":"Dharshini",
+    "email":"Dharshu@123",
+    "contact":"9854278391",
+    "dob":"23011998",
+    "course":"B.Tech"
+}
